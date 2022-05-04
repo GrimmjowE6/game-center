@@ -1,0 +1,40 @@
+header{
+    text-align: center;
+}
+article{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+input{
+    align-self: center;
+    background-color: rgb(54, 148, 82);
+    color: azure;
+    height: 100px;
+    width: 300px;
+    border: none;
+    border-radius:10px;
+    font-size: xx-large;
+    margin: 20px;
+}
+input:hover{
+    background-color: rgb(46, 80, 46);
+    color: white;
+}
+#i1{
+    height: 100px;
+    width: 150px;
+}
+#i2{
+    height: 70px;
+    width: 70px;
+}
+p{
+    margin-top: 0px;
+    text-align: center;
+    font-size: x-large;
+}
+div{
+
+    margin: 150px;
+}
