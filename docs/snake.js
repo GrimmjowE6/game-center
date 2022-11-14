@@ -27,7 +27,7 @@ for(i=0;i<27;i++){
     lign=''
 }
  
-setInterval(start,50)
+setInterval(start,130)
 function start_game()
 {
     document.getElementById('sect').innerHTML=map   
